@@ -1,30 +1,30 @@
-<Records>
+<RECORDS>
 
-   <record SL.NO.="23">
-       <NAME> John Carter </NAME>
+   <RECORD           SL.NO.="23">
+       <NAME>        John Carter   </NAME>
        <ADMISSION DATE> 
-         <day>   25   </day>
-         <month> 12   </month>
-         <year>  2015 </year>
+           <DAY>     25            </DAY>
+           <MONTH>   12            </MONTH>
+           <YEAR>    2015          </YEAR>
        </ADMISSION DATE>
-   </record>
+   </RECORD>
 
-   <record SL.NO.="29">
-       <NAME> Bob Marshal </NAME>
+   <RECORD           SL.NO.="29">
+       <NAME>        Bob Marshal   </NAME>
        <ADMISSION DATE> 
-         <day>   13   </day>
-         <month> 1    </month>
-         <year>  1999 </year>
+           <DAY>     13            </DAY>
+           <MONTH>   1             </MONTH>
+           <YEAR>    1999          </YEAR>
        </ADMISSION DATE>
-   </record>
+   </RECORD>
 
-   <record SL.NO.="35">
-       <NAME> Clark Kent </NAME>
+   <RECORD           SL.NO.="35">
+       <NAME>        Clark Kent    </NAME>
        <ADMISSION DATE> 
-         <day>   17   </day>
-         <month> 06   </month>
-         <year>  2005 </year>
+           <DAY>     17            </DAY>
+           <MONTH>   06            </MONTH>
+           <YEAR>    2005          </YEAR>
        </ADMISSION DATE>
-   </record>
+   </RECORD>
 
-</Records>
+</RECORDS>

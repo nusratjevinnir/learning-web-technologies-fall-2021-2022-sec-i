@@ -1,48 +1,53 @@
 <PERSONS>
 
    <PERSON ID="1">
-       <NAME>         John Doe    </NAME>
+       <NAME>          John Doe           </NAME>
        <ADDRESS>
           <FLAT>     
-              <PART>           </PART>
+              <PART>                      </PART>
+              <NO.>                       </NO.>
           </FLAT>
-          <HOUSE>      38      </HOUSE>
-          <ROAD>       3       </ROAD>
-          <AREA>       Banani  </AREA>
-          <CITY>       Dhaka   </CITY>
+          <HOUSE>      38                 </HOUSE>
+          <ROAD>       3                  </ROAD>
+          <AREA>       Banani             </AREA>
+          <CITY>       Dhaka              </CITY>
        </ADDRESS>
-       <DEPARTMENT>   Sales   </DEPARTMENT>
-       <SALARY>       $20000  </SALARY>
+       <DEPARTMENT>    Sales              </DEPARTMENT>
+       <SALARY>        $20000             </SALARY>
    </PERSON>
 
 
-   <PERSON ID="2">
-       <NAME>     Mark Zuckerberg    </NAME>
+   <PERSON ID="2" 
+       <NAME>          Mark Zuckerberg    </NAME>
        <ADDRESS>    
           <FLAT>     
-              <PART>           </PART>
+              <PART>   A                  </PART>
+              <NO.>    1                  </NO.>
           </FLAT>
-          <HOUSE>      38      </HOUSE>
-          <ROAD>       3       </ROAD>
-          <AREA>       Banani  </AREA>
-          <CITY>       Dhaka   </CITY>
+          <HOUSE>      20                 </HOUSE>
+          <ROAD>       18                 </ROAD>
+          <AREA>       Mirpur             </AREA>
+          <CITY>       Dhaka              </CITY>
        </ADDRESS>
-       <DEPARTMENT>   Sales   </DEPARTMENT>
-       <SALARY>       $20000  </SALARY>
+       <DEPARTMENT>    Accounts           </DEPARTMENT>
+       <SALARY>        $12000             </SALARY>
    </PERSON>
 
 
-   <PERSON ID="1">
-       <NAME>         John Doe    </NAME>
+ <PERSON ID="3">
+       <NAME>          Ala Voski          </NAME>
        <ADDRESS>    
-          <HOUSE>      38      </HOUSE>
-          <ROAD>       3       </ROAD>
-          <AREA>       Banani  </AREA>
-          <CITY>       Dhaka   </CITY>
+          <FLAT>     
+              <PART>                      </PART>
+              <NO.>                       </NO.>
+          </FLAT>
+          <HOUSE>      38                 </HOUSE>
+          <ROAD>       3                  </ROAD>
+          <AREA>       Mirpur             </AREA>
+          <CITY>                          </CITY>
        </ADDRESS>
-       <DEPARTMENT>   Sales   </DEPARTMENT>
-       <SALARY>       $20000  </SALARY>
+       <DEPARTMENT>    Human Resources    </DEPARTMENT>
+       <SALARY>        $30000             </SALARY>
    </PERSON>
-
 
 </PERSONS>
