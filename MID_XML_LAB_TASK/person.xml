@@ -1,0 +1,48 @@
+<PERSONS>
+
+   <PERSON ID="1">
+       <NAME>         John Doe    </NAME>
+       <ADDRESS>
+          <FLAT>     
+              <PART>           </PART>
+          </FLAT>
+          <HOUSE>      38      </HOUSE>
+          <ROAD>       3       </ROAD>
+          <AREA>       Banani  </AREA>
+          <CITY>       Dhaka   </CITY>
+       </ADDRESS>
+       <DEPARTMENT>   Sales   </DEPARTMENT>
+       <SALARY>       $20000  </SALARY>
+   </PERSON>
+
+
+   <PERSON ID="2">
+       <NAME>     Mark Zuckerberg    </NAME>
+       <ADDRESS>    
+          <FLAT>     
+              <PART>           </PART>
+          </FLAT>
+          <HOUSE>      38      </HOUSE>
+          <ROAD>       3       </ROAD>
+          <AREA>       Banani  </AREA>
+          <CITY>       Dhaka   </CITY>
+       </ADDRESS>
+       <DEPARTMENT>   Sales   </DEPARTMENT>
+       <SALARY>       $20000  </SALARY>
+   </PERSON>
+
+
+   <PERSON ID="1">
+       <NAME>         John Doe    </NAME>
+       <ADDRESS>    
+          <HOUSE>      38      </HOUSE>
+          <ROAD>       3       </ROAD>
+          <AREA>       Banani  </AREA>
+          <CITY>       Dhaka   </CITY>
+       </ADDRESS>
+       <DEPARTMENT>   Sales   </DEPARTMENT>
+       <SALARY>       $20000  </SALARY>
+   </PERSON>
+
+
+</PERSONS>
