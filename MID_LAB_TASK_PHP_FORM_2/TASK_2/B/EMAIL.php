@@ -19,8 +19,8 @@
 </head>
 <body>
 	<form method="post" >
-		Usermail: <input type="text" email="myemail" value=""/>
-		<input type="submit" email="submit" value="Submit">
+		Usermail: <input type="email" name="myemail" value=""/>
+		<input type="submit" name="submit" value="Submit">
 	</form>
 </body>
 </html>
