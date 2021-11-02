@@ -1,53 +1,53 @@
-<PERSONS>
+<persons>
 
-   <PERSON ID="1">
-       <NAME>          John Doe           </NAME>
-       <ADDRESS>
-          <FLAT>     
-              <PART>                      </PART>
-              <NO.>                       </NO.>
-          </FLAT>
-          <HOUSE>      38                 </HOUSE>
-          <ROAD>       3                  </ROAD>
-          <AREA>       Banani             </AREA>
-          <CITY>       Dhaka              </CITY>
-       </ADDRESS>
-       <DEPARTMENT>    Sales              </DEPARTMENT>
-       <SALARY>        $20000             </SALARY>
-   </PERSON>
-
-
-   <PERSON ID="2" 
-       <NAME>          Mark Zuckerberg    </NAME>
-       <ADDRESS>    
-          <FLAT>     
-              <PART>   A                  </PART>
-              <NO.>    1                  </NO.>
-          </FLAT>
-          <HOUSE>      20                 </HOUSE>
-          <ROAD>       18                 </ROAD>
-          <AREA>       Mirpur             </AREA>
-          <CITY>       Dhaka              </CITY>
-       </ADDRESS>
-       <DEPARTMENT>    Accounts           </DEPARTMENT>
-       <SALARY>        $12000             </SALARY>
-   </PERSON>
+   <person id="1">
+       <name>          John Doe           </name>
+       <address>
+          <flat>     
+              <part>                      </part>
+              <no>                        </no>
+          </flat>
+          <house>      38                 </house>
+          <road>       3                  </road>
+          <area>       Banani             </area>
+          <city>       Dhaka              </city>
+       </address>
+       <dept>          Sales              </dept>
+       <salary>        $20000             </salary>
+   </person>
 
 
- <PERSON ID="3">
-       <NAME>          Ala Voski          </NAME>
-       <ADDRESS>    
-          <FLAT>     
-              <PART>                      </PART>
-              <NO.>                       </NO.>
-          </FLAT>
-          <HOUSE>      38                 </HOUSE>
-          <ROAD>       3                  </ROAD>
-          <AREA>       Mirpur             </AREA>
-          <CITY>                          </CITY>
-       </ADDRESS>
-       <DEPARTMENT>    Human Resources    </DEPARTMENT>
-       <SALARY>        $30000             </SALARY>
-   </PERSON>
+    <person id="2" 
+       <name>          Mark Zuckerberg    </name>
+       <address>    
+          <flat>     
+              <part>   A                  </part>
+              <no>     1                  </no>
+          </flat>
+          <house>      20                 </house>
+          <road>       18                 </road>
+          <area>       Mirpur             </area>
+          <city>       Dhaka              </city>
+       </address>
+       <dept>          Accounts           </dept>
+       <salary>        $12000             </salary>
+    </person>
 
-</PERSONS>
+
+    <person id="3">
+       <name>          Ala Voski          </name>
+       <address>    
+          <flat>     
+              <part>                      </part>
+              <no>                        </no>
+          </flat>
+          <house>      38                 </house>
+          <road>       3                  </road>
+          <area>       Mirpur             </area>
+          <city>                          </city>
+       </address>
+       <dept>          Human Resources    </dept>
+       <salary>        $30000             </salary>
+    </person>
+
+</persons>
