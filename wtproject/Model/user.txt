@@ -1,0 +1,7 @@
+Customer1|123451|customer|customer1@example.com
+Customer2|123452|customer|customer2@example.com
+Customer3|123453|customer|customer3@example.com
+nir|11111|customer|nir@gmail.com|
+farhana|22222|customer|farhana@gmail.com|
+mita|33333|customer|mita@gmail.com|
+Nusrat|55555|customer|16-31222-1@student.aiub.edu|
